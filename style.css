@@ -1,0 +1,13 @@
+th,td { 
+    color:indigo;
+    border: 2px solid brown;
+}
+.hello{
+    color: orangered;
+    border: 2px solid black;
+    width:25%;
+    background-color: aquamarine;
+    margin-left: 100px;
+    padding-left:30px;
+    /* float: right; */
+}
